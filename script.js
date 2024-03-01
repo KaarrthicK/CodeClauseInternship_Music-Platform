@@ -11,7 +11,7 @@ const playlist= [
     },
     {
         songName : "Sanu Ek Pal Chain - Raid",
-        songImg : "/image/sanuEkPal.jpg",
+        songImg : "/image/SanuEkPal.jpg",
         songSrc : "/song/Sanu Ek Pal Chain - Raid.mp3"
     },
     {
